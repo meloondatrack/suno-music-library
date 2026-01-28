@@ -1,5 +1,15 @@
 {
-  "tracks": [],
-  "total": 0,
+  "tracks": [
+    {
+      "id": "001",
+      "title": "Sky High",
+      "file": "tracks/2025-01/sky-high.mp3",
+      "date": "2025-01-28",
+      "style": ["Hypnotic Trap", "Baby Voice", "Playboi Carti Style"],
+      "mood": "ethereal",
+      "lyrics_file": "tracks/2025-01/sky-high.md"
+    }
+  ],
+  "total": 1,
   "last_updated": "2025-01-28"
 }
