@@ -6,17 +6,19 @@ AI 生成音乐收藏库，由 Suno AI 创作。
 
 | 日期 | 歌曲 | 风格 | 文件 |
 |------|------|------|------|
+| 2026-02-03 | Figure It Out | Indie Pop, Alt Rock | [figure-it-out.mp3](tracks/2026-02/figure-it-out.mp3) |
 | 2026-02-03 | Words I Swallow | Neo-soul, Alt R&B | [words-i-swallow.mp3](tracks/2026-02/words-i-swallow.mp3) |
 | 2025-01-28 | Sky High | Hypnotic Trap, Baby Voice | [sky-high.mp3](tracks/2025-01/sky-high.mp3) |
 
 ## 按风格分类
 
 - **R&B/Neo-soul**: 1 首
+- **Indie/Alt Rock**: 1 首
 - **电子/Trap**: 1 首
 
 ## 统计
 
-- 总曲目: 2 首
+- 总曲目: 3 首
 - 创作周期: 2025-01 至今
 
 ## 目录结构

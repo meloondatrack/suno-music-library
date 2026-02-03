@@ -1,6 +1,16 @@
 {
   "tracks": [
     {
+      "id": "003",
+      "title": "Figure It Out",
+      "file": "tracks/2026-02/figure-it-out.mp3",
+      "date": "2026-02-03",
+      "style": ["Indie Pop", "Alternative Rock", "Grunge-influenced", "Raw"],
+      "mood": "carefree",
+      "lyrics_file": "lyrics/figure-it-out.txt",
+      "inspiration": "Dominic Fike - Superstar Shit"
+    },
+    {
       "id": "002",
       "title": "Words I Swallow",
       "file": "tracks/2026-02/words-i-swallow.mp3",
@@ -20,6 +30,6 @@
       "lyrics_file": "tracks/2025-01/sky-high.md"
     }
   ],
-  "total": 2,
+  "total": 3,
   "last_updated": "2026-02-03"
 }
