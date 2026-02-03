@@ -1,7 +1,7 @@
 {
   "tracks": [
     {
-      "id": "001",
+      "id": "002",
       "title": "Words I Swallow",
       "file": "tracks/2026-02/words-i-swallow.mp3",
       "date": "2026-02-03",
@@ -9,8 +9,17 @@
       "mood": "melancholic",
       "lyrics_file": "lyrics/words-i-swallow.txt",
       "inspiration": "Khmari - Heading in the Jaw"
+    },
+    {
+      "id": "001",
+      "title": "Sky High",
+      "file": "tracks/2025-01/sky-high.mp3",
+      "date": "2025-01-28",
+      "style": ["Hypnotic Trap", "Baby Voice", "Playboi Carti Style"],
+      "mood": "ethereal",
+      "lyrics_file": "tracks/2025-01/sky-high.md"
     }
   ],
-  "total": 1,
+  "total": 2,
   "last_updated": "2026-02-03"
 }
