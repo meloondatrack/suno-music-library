@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    {
+      "id": "001",
+      "title": "Words I Swallow",
+      "file": "tracks/2026-02/words-i-swallow.mp3",
+      "date": "2026-02-03",
+      "style": ["Neo-soul", "Alternative R&B", "Intimate", "Melancholic"],
+      "mood": "melancholic",
+      "lyrics_file": "lyrics/words-i-swallow.txt",
+      "inspiration": "Khmari - Heading in the Jaw"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2026-02-03"
+}
