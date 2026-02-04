@@ -1,6 +1,16 @@
 {
   "tracks": [
     {
+      "id": "004",
+      "title": "Clock on the Wall",
+      "file": "tracks/2026-02/clock-on-the-wall.mp3",
+      "date": "2026-02-04",
+      "style": ["Dark R&B", "Alternative R&B", "Lo-fi", "Melancholic"],
+      "mood": "melancholic",
+      "lyrics_file": "lyrics/clock-on-the-wall.txt",
+      "inspiration": "Joji - Tick Tock"
+    },
+    {
       "id": "003",
       "title": "Figure It Out",
       "file": "tracks/2026-02/figure-it-out.mp3",
@@ -30,6 +40,6 @@
       "lyrics_file": "tracks/2025-01/sky-high.md"
     }
   ],
-  "total": 3,
-  "last_updated": "2026-02-03"
+  "total": 4,
+  "last_updated": "2026-02-04"
 }
